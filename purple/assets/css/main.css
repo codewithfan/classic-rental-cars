@@ -1216,7 +1216,6 @@ input, select, textarea {
 		top: 0;
 		left: 0;
 		width: 100%;
-		background-color: #885db0;
 		color: #ffffff;
 		height: 3.25em;
 		line-height: 3.25em;
@@ -1286,7 +1285,7 @@ input, select, textarea {
 
 					#header nav ul li.active a {
 						background-color: #ffffff;
-						color: #885db0;
+						color: black;
 					}
 
 		@media screen and (max-width: 980px) {
