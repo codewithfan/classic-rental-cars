@@ -1285,7 +1285,7 @@ input, select, textarea {
 
 					#header nav ul li.active a {
 						background-color: #ffffff;
-						color: #885db0;
+						color: white;
 					}
 
 		@media screen and (max-width: 980px) {
