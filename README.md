@@ -1,4 +1,4 @@
-# <a target="_blank" href="https://classicrentals.netlify.app/">Classic Car Rental</a> ⭐️
+# <a target="_blank" href="https://classicrentals.netlify.app/">Classic Car Rental</a> 🏎️
 
 ### Vehicle rental webpage to rent classic cars.   
 
@@ -14,9 +14,10 @@ When I improve the project, I would add more details about the business.
 
 ## Tech Used 💻
 
-![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)
-![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)
-![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ## Let's Network 👋🏽
 - [Twitter](https://twitter.com/home)
